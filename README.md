@@ -1,10 +1,10 @@
 Hi 👋 My name is Mehmet Emre Topdal
 ===================================
 
-Frontend developer candidate
+Frontend Developer
 ----------------------------
 
-I am 3th year student at Istanbul Technical University(İTÜ)
+I am 4th year student at Istanbul Technical University(İTÜ)
 
 *   🌍  I'm based in İstanbul
 *   ✉️  You can contact me at [dev.emre.topdal@gmail.com](mailto:dev.emre.topdal@gmail.com)
