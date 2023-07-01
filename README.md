@@ -4,7 +4,7 @@ Hi 👋 My name is Mehmet Emre Topdal
 Frontend Developer
 ------------------
 
-I am 4rd year computer engineering student at Istanbul Technical University. I want to develop in my career in web development. I think I have strong communication and technical skills so I am ready to support your development teams.
+I am senior year computer engineering student at Istanbul Technical University. I want to develop in my career in web development. I think I have strong communication and technical skills so I am ready to support your development teams.
 
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [dev.emre.topdal@gmail.com](mailto:dev.emre.topdal@gmail.com)
