@@ -9,7 +9,6 @@ I am senior year computer engineering student at Istanbul Technical University. 
 * 🌍  I'm based in İstanbul
 * ✉️  You can contact me at [dev.emre.topdal@gmail.com](mailto:dev.emre.topdal@gmail.com)
 * 🧠  I'm learning React
-* ⚡  I work at Jotform
 
 ### Skills
 
