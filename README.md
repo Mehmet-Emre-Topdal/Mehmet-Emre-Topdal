@@ -93,19 +93,3 @@ public class EmreTopdal implements FullstackDeveloper {
 
 ---
 
-## 🎓 Certifications
-
-- 📜 **Master Microservices with Spring Boot and Spring Cloud** — Udemy
-- 📜 **React - The Complete Guide** (Maximilian Schwarzmüller) — Udemy
-
----
-
-<div align="center">
-
-```
-"First, solve the problem. Then, write the code." — John Johnson
-```
-
-![Profile Views](https://komarev.com/ghpvc/?username=Mehmet-Emre-Topdal&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
